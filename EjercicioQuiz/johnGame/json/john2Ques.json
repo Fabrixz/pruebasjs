@@ -1,0 +1,75 @@
+[{
+        "question": "Como se llama la asesina sordomuda?",
+        "answer": "Ares",
+        "opt": [
+            "Yanina", "Lali", "Martina"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Como se llama el gerente del continental en Roma? ",
+        "answer": "Julius",
+        "opt": [
+            "Sam", "Frodo", "Julio"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Cuantas personas mueren en esta pelicula?",
+        "answer": "126",
+        "opt": [
+            "134", "165", "128"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Como se llama la asociacion de los vagabundos en esta pelicula?",
+        "answer": "The Bowery",
+        "opt": [
+            "Illuminatis", "Vox Populi", "The Magicians"
+        ],
+        "quote": ""
+    }, {
+        "question": "Que raza de perro tiene John en esta pelicula?",
+        "answer": "Pitbull",
+        "opt": [
+            "Coker", "Bloodhound", "Golden Retriever"
+        ],
+        "quote": ""
+    }, {
+        "question": "A quien dispara John en el continental?",
+        "answer": "Santino",
+        "opt": [
+            "Julius", "Marisa", "Sauron"
+        ],
+        "quote": ""
+    }, {
+        "question": "Quien destroza la casa de John en esta pelicula?",
+        "answer": "Santino",
+        "opt": [
+            "Julius", "Nadie", "Carlos"
+        ],
+        "quote": ""
+    }, {
+        "question": "Que favor le pide Santino a John?",
+        "answer": "Que mate a la hermana",
+        "opt": [
+            "Que mate al hermano", "Que mate a Julius", "Que mate a Viggo"
+        ],
+        "quote": ""
+    }, {
+        "question": "De cuanto es la recompensa por John?",
+        "answer": "7 millones",
+        "opt": [
+            "5 millones", "9 millones", "6 millones"
+        ],
+        "quote": "N/A"
+    }, {
+        "question": "Con que util escolar mata John a su enemigo en esta pelicula?",
+        "answer": "Lapiz",
+        "opt": [
+            "Birome", "Compas", "Sacapuntas"
+        ],
+        "quote": ""
+    }
+]

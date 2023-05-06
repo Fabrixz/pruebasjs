@@ -1,0 +1,78 @@
+[{
+        "question": "Cuanto tiempo le dan a John para que se escape?",
+        "answer": "1h",
+        "opt": [
+            "2h", "30min", "1h 30min"
+        ],
+        "quote": ""
+    }, {
+        "question": "Con que objeto mata John wick a su enemigo en la biblioteca",
+        "answer": "Libro",
+        "opt": [
+            "Carton", "Lampara", "Cuchillo"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Que animal usa John para matar a un enemigo?",
+        "answer": "Caballo",
+        "opt": [
+            "Pato", "Gato", "Pulpo"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Cual es el verdadero nombre de John Wick?",
+        "answer": "Jardani Jovanovich",
+        "opt": [
+            "Jordan Jovanovich", "Jardani Jovanovi", "Jardani Jova"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Como se llama el grupo de gerentes del Continental",
+        "answer": "High Table",
+        "opt": [
+            "Small Table", "High Library", "High Chair"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Cuantos perros tiene la gerenta de el Continental de Marruecos?",
+        "answer": "2",
+        "opt": [
+            "3", "32", "No tiene perros"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Que dedo se corta John en la pelicula?",
+        "answer": "Anular",
+        "opt": [
+            "Meñique", "Pulgar", "Indice"
+        ],
+        "quote": ""
+    }, {
+        "question": "Que le pide el lider de la High Table a John?",
+        "answer": "Matar a Julius",
+        "opt": [
+            "Que lo mate", "Que se vaya", "Suicidarse"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "A cuantas personas mato John en total en estas 3 peliculas ?",
+        "answer": "299",
+        "opt": [
+            "300", "298", "301"
+        ],
+        "quote": "Legolas says, 'They're taking the hobbits to Isengard!'. This was before Merry and Pippin escaped."
+    }, {
+        "question": "Cuanto tiempo le dan a Julius para que renuncie?",
+        "answer": "1 semana",
+        "opt": [
+            "1 dia", "3 dias", "4semanas"
+        ],
+        "quote": ""
+    }
+]

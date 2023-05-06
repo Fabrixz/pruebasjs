@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Quien mato al perro de John Wick?",
+        "answer": "Viggo Tarasov",
+        "opt": [
+            "Facundo Arana",
+            "Vigo mortensen",
+            "Ricardo Fort"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Que raza era el perro de John Wick?",
+        "answer": "Beagle",
+        "opt": [
+            "Salchicha",
+            "Bulldog",
+            "Pitbull"
+        ],
+        "quote": "."
+    },
+    {
+        "question": "Segun el padre de Viggo, ¿Como le conocen a John?",
+        "answer": "Baba Yaga",
+        "opt": [
+            "El hombre de la bolsa",
+            "Pomberito",
+            "Asesino"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Que dice el tatuaje de la espalda de John?",
+        "answer": "Fortis Fortuna Adiuvat",
+        "opt": [
+            "Memento Mori",
+            "R.I.P",
+            "Requiecast In Pace"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "A cuantas personas asesina John en esta pelicula?",
+        "answer": "77",
+        "opt": [
+            "78",
+            "79",
+            "80"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Que esta grabado en las monedas de la pelicula?",
+        "answer": "Ex Unitae Vires",
+        "opt": [
+            "Ab imo pectore.",
+            "Mens sana in corpore sano.",
+            "Tempus fugit."
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Como se llama el amigo francotirador de John?",
+        "answer": "Marcus",
+        "opt": [
+            "Carlos",
+            "Levi",
+            "Robert Downey JR"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Cual es la unica regla prohibida dentro del Continental",
+        "answer": "Matar",
+        "opt": [
+            "Rezar",
+            "Parir",
+            "Dormir"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Que coche maneja John Wick?",
+        "answer": "Ford Mustang Boss 429",
+        "opt": [
+            "Ford Mustang Boss 302",
+            "Ford Mustang Boss 2012",
+            "Ford Mustang Boss 1970"
+        ],
+        "quote": ""
+    },
+    {
+        "question": "Cuanto Dura La Pelicula?",
+        "answer": "1h 41m",
+        "opt": [
+            "1h 46m",
+            "1h 45m",
+            "1h 50m"
+        ],
+        "quote": ""
+    }
+]
